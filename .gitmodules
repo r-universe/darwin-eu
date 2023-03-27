@@ -8,3 +8,8 @@
 	url = https://github.com/darwin-eu/codelistgenerator
 	shallow = true
 	registered = true
+[submodule "IncidencePrevalence"]
+	path = IncidencePrevalence
+	url = https://github.com/darwin-eu/incidenceprevalence
+	shallow = true
+	registered = true
