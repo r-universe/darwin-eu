@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "CodelistGenerator"]
 	path = CodelistGenerator
 	url = https://github.com/darwin-eu/codelistgenerator
-	shallow = true
-	registered = true
 [submodule "IncidencePrevalence"]
 	path = IncidencePrevalence
 	url = https://github.com/darwin-eu/incidenceprevalence
-	shallow = true
-	registered = true
