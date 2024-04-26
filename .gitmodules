@@ -14,3 +14,6 @@
 [submodule "IncidencePrevalence"]
 	path = IncidencePrevalence
 	url = https://github.com/darwin-eu/incidenceprevalence
+[submodule "visOmopResults"]
+	path = visOmopResults
+	url = https://github.com/darwin-eu/visomopresults
