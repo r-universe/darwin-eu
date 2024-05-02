@@ -1,8 +1,26 @@
 [
   {
+    "package": "CDMConnector",
+    "url": "https://github.com/darwin-eu/CDMConnector",
+    "via": ["CodelistGenerator"],
+    "from": "CodelistGenerator"
+  },
+  {
+    "package": "omopgenerics",
+    "url": "https://github.com/darwin-eu-dev/omopgenerics",
+    "via": ["CodelistGenerator"],
+    "from": "CodelistGenerator"
+  },
+  {
     "package": "omopgenerics",
     "url": "https://github.com/darwin-eu-dev/omopgenerics",
     "via": ["visOmopResults"],
     "from": "visOmopResults"
+  },
+  {
+    "package": "visOmopResults",
+    "url": "https://github.com/darwin-eu/visOmopResults",
+    "via": ["CodelistGenerator"],
+    "from": "CodelistGenerator"
   }
 ]
