@@ -14,6 +14,9 @@
 [submodule "IncidencePrevalence"]
 	path = IncidencePrevalence
 	url = https://github.com/darwin-eu/incidenceprevalence
+[submodule "PatientProfiles"]
+	path = PatientProfiles
+	url = https://github.com/darwin-eu/patientprofiles
 [submodule "TestGenerator"]
 	path = TestGenerator
 	url = https://github.com/darwin-eu/testgenerator
