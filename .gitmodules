@@ -8,9 +8,15 @@
 [submodule "CodelistGenerator"]
 	path = CodelistGenerator
 	url = https://github.com/darwin-eu/codelistgenerator
+[submodule "CohortCharacteristics"]
+	path = CohortCharacteristics
+	url = https://github.com/darwin-eu/cohortcharacteristics
 [submodule "DrugExposureDiagnostics"]
 	path = DrugExposureDiagnostics
 	url = https://github.com/darwin-eu/drugexposurediagnostics
+[submodule "DrugUtilisation"]
+	path = DrugUtilisation
+	url = https://github.com/darwin-eu/drugutilisation
 [submodule "IncidencePrevalence"]
 	path = IncidencePrevalence
 	url = https://github.com/darwin-eu/incidenceprevalence
@@ -23,6 +29,9 @@
 [submodule "TreatmentPatterns"]
 	path = TreatmentPatterns
 	url = https://github.com/darwin-eu/treatmentpatterns
+[submodule "omopgenerics"]
+	path = omopgenerics
+	url = https://github.com/darwin-eu/omopgenerics
 [submodule "visOmopResults"]
 	path = visOmopResults
 	url = https://github.com/darwin-eu/visomopresults
