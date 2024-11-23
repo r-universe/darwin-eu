@@ -20,6 +20,9 @@
 [submodule "TreatmentPatterns"]
 	path = TreatmentPatterns
 	url = https://github.com/darwin-eu/treatmentpatterns
+[submodule "omopgenerics"]
+	path = omopgenerics
+	url = https://github.com/darwin-eu/omopgenerics
 [submodule "visOmopResults"]
 	path = visOmopResults
 	url = https://github.com/darwin-eu/visomopresults
