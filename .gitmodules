@@ -8,6 +8,9 @@
 [submodule "CodelistGenerator"]
 	path = CodelistGenerator
 	url = https://github.com/darwin-eu/codelistgenerator
+[submodule "CohortCharacteristics"]
+	path = CohortCharacteristics
+	url = https://github.com/darwin-eu/cohortcharacteristics
 [submodule "DrugExposureDiagnostics"]
 	path = DrugExposureDiagnostics
 	url = https://github.com/darwin-eu/drugexposurediagnostics
