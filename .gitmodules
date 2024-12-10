@@ -14,6 +14,9 @@
 [submodule "DrugExposureDiagnostics"]
 	path = DrugExposureDiagnostics
 	url = https://github.com/darwin-eu/drugexposurediagnostics
+[submodule "DrugUtilisation"]
+	path = DrugUtilisation
+	url = https://github.com/darwin-eu/drugutilisation
 [submodule "IncidencePrevalence"]
 	path = IncidencePrevalence
 	url = https://github.com/darwin-eu/incidenceprevalence
