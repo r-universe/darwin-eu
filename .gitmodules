@@ -11,6 +11,9 @@
 [submodule "CohortCharacteristics"]
 	path = CohortCharacteristics
 	url = https://github.com/darwin-eu/cohortcharacteristics
+[submodule "CohortSurvival"]
+	path = CohortSurvival
+	url = https://github.com/darwin-eu/cohortsurvival
 [submodule "DrugExposureDiagnostics"]
 	path = DrugExposureDiagnostics
 	url = https://github.com/darwin-eu/drugexposurediagnostics
